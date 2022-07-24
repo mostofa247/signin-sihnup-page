@@ -1,4 +1,4 @@
-# signin-sihnup-page-HTML-CSS-JS
+# signin-signup-page-HTML-CSS-JS
 
 #Live Site: https://mostofa247.github.io/signin-sihnup-page/
 
